@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Motion:data</string>
+    <string name="no_sensors_text">No sensors sorry</string>
+    <string name="motion_data_collection">Motion : Data Collection</string>
+    <string name="name">Name</string>
+    <string name="name_header">Name :</string>
+    <string name="initially">Initially :</string>
+</resources>
